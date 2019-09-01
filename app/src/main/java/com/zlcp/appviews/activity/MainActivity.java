@@ -45,8 +45,9 @@ public class MainActivity extends AppCompatActivity {
 
     private List<HomeItem> getHomeItemData() {
         return Arrays.asList(
-                new HomeItem("写个什么特效呢", Main2Activity.class, R.mipmap.ic_launcher),
-                new HomeItem("写个什么特效呢", Main2Activity.class, R.mipmap.ic_launcher),
+                new HomeItem("八种角标", Main2Activity.class, R.mipmap.ic_launcher),
+                new HomeItem("ConstraintLayout", Main3Activity.class, R.mipmap.ic_launcher),
+                new HomeItem("转场动画", Main2Activity.class, R.mipmap.ic_launcher),
                 new HomeItem("写个什么特效呢", Main2Activity.class, R.mipmap.ic_launcher),
                 new HomeItem("写个什么特效呢", Main2Activity.class, R.mipmap.ic_launcher),
                 new HomeItem("写个什么特效呢", Main2Activity.class, R.mipmap.ic_launcher),
